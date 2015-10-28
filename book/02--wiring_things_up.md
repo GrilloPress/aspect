@@ -35,3 +35,23 @@ examples/
     vue.js
 ```
 
+## Wiring up our first example
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>First Vue.js Example</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="dist/vue.js"></script>
+    </head>
+  <body>
+    
+  </body>
+</html>
+```
+
+```js
+
+```
