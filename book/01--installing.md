@@ -31,3 +31,5 @@ npm install vue
 This will install the latest stable version.
 
 ## Further Resources
+
+[Official Installation Guide](http://vuejs.org/guide/installation.html)
