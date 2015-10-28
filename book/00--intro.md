@@ -10,6 +10,6 @@ For a really solid introduction to the ideas behind Vue.js, see the [Vue.js: A (
 
 ## Further Resources
 
-
 - [Introduction to Vue.js from the official blog](http://blog.evanyou.me/2015/10/25/vuejs-re-introduction/)
 - [A great comparison to other frameworks can be found here](http://vuejs.org/guide/comparison.html)
+- [A list of the places that use Vue.js and related resources](https://github.com/vuejs/awesome-vue#projects-using-vuejs)
