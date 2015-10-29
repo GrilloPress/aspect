@@ -37,13 +37,15 @@ examples/
 
 ## Wiring up our first example
 
+In our ```first.html``` example write the following:
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
     <title>First Vue.js Example</title>
-    <link rel="stylesheet" href="style.css">
+
     <script src="dist/vue.js"></script>
     </head>
   <body>
@@ -51,6 +53,13 @@ examples/
   </body>
 </html>
 ```
+
+We haven't done much here yet. We have a HTML shell with a ```<script src="dist/vue.js"></script>``` call to our ```vue.js``` file. 
+
+Open it in your browser and check that there are no errors connecting to your ```vue.js``` file via your browser's developer tools.
+
+> You can generally open your browser's developer tools by pressing ```Ctrl+Shift+I```
+
 
 ```js
 
