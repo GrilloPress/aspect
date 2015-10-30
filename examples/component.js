@@ -1,8 +1,10 @@
 var Profile = Vue.extend({
-  template: '<div>{{ name }}</div>',
+  template: '<div class="{{css}}"> {{ name }} - {{job}}</div>',
   data: function () {
     return {
-      name: 'Andrew Duckworth'
+      name: 'Andrew Duckworth',
+      job: 'Product Manager',
+      css: 'vip'
     }
   }
 })
