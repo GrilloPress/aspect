@@ -4,7 +4,7 @@ This is a little micro book about Vue.js
 
 It is written by Andrew Duckworth
 
-You cannot reuse this content for commercial reasons. The content belongs to me but you are free to share and rework, as long as your attribute myself and don't sell it.
+You cannot reuse this content for commercial reasons. The content belongs to me but you are free to share and rework, as long as you attribute myself (Andrew Duckworth) and don't sell it.
 
 This repo is where the book is written. Feel free to set up an issue for any errors, I am sure there will be some.
 
